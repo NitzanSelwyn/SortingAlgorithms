@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SelectionSort
+namespace InsertionSort
 {
     class SelectionSort
     {
